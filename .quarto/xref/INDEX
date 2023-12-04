@@ -1,0 +1,29 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "85a6733c"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "cd360aed"
+  },
+  "anomaly_detection.ipynb": {
+    "anomaly_detection.html": "f5f7d142"
+  },
+  "probability_theory_and_random_variables.ipynb": {
+    "probability_theory_and_random_variables.html": "02b474d6"
+  },
+  "regression.ipynb": {
+    "regression.html": "da3defe4"
+  },
+  "index.qmd": {
+    "index.html": "8b96fa90"
+  },
+  "about.qmd": {
+    "about.html": "1eddc007"
+  },
+  "classification.ipynb": {
+    "classification.html": "9046f219"
+  },
+  "clustering.ipynb": {
+    "clustering.html": "757543c0"
+  }
+}
